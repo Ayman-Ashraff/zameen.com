@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Zameen Green -->
+    <color name="primary_green">#2ECC71</color>
+    <!-- Dark Green often used in branding -->
+    <color name="dark_green">#1B5E20</color>
+    <!-- Accent Green -->
+    <color name="accent_green">#27AE60</color>
+    <!-- Standard White -->
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <!-- Black (text, icons) -->
+    <color name="black">#FF000000</color>
+    <!-- Light Background Grey -->
+    <color name="background_grey">#F4F4F4</color>
+</resources>
