@@ -17,6 +17,7 @@ This project is a clone of Zameen.com, a real estate platform in Pakistan. It al
 - **ADO.Net** for backend services (authentication, database)
 - **Git** for version control
 
+
 ## Installation
 
 1. Clone the repository:
